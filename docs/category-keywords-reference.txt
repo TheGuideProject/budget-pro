@@ -1,0 +1,128 @@
+CATEGORIA: SUPERMERCATI_GDO
+KEYWORDS:
+supermercato
+ipermercato
+market
+mini market
+minimarket
+alimentari
+alimentari vari
+grocery
+food
+spesa
+discount
+cash&carry
+cash and carry
+gdo
+
+BRAND_KEYWORDS:
+conad
+superconad
+iperconad
+city conad
+petstore conad
+coop
+coop italia
+coop alleanza
+ipercoop
+amici di casa coop
+esselunga
+esse lunga
+esselunga spa
+carrefour
+carrefour market
+carrefour express
+despar
+eurospar
+interspar
+pam
+superpam
+panorama
+crai
+crai extra
+sigma
+super sigma
+bennet
+bennet spa
+il gigante
+gigante super
+famila
+a&o
+alì
+ali supermercati
+decò
+sì con te
+tigros
+iperal
+md market
+CATEGORIA: DISCOUNT
+KEYWORDS:
+discount
+hard discount
+low cost market
+
+BRAND_KEYWORDS:
+lidl
+lidl italia
+eurospin
+euro spin
+aldi
+aldi italia
+penny
+penny market
+md
+md discount
+todis
+dpiu
+d+
+CATEGORIA: PETSHOP
+KEYWORDS:
+pet
+petshop
+pet shop
+negozio animali
+animali
+zoo
+zootecnica
+mangimi
+crocchette
+cibo animali
+cani
+gatti
+toelettatura
+pet care
+petfood
+pet food
+
+BRAND_KEYWORDS:
+arcaplanet
+arca planet
+isola dei tesori
+isole dei tesori
+petmark
+animali che passione
+elite pet
+petstore
+pet store
+petstore conad
+amici di casa coop
+CATEGORIA: PETSHOP_ONLINE
+KEYWORDS:
+pet online
+pet ecommerce
+pet e-commerce
+
+BRAND_KEYWORDS:
+zooplus
+amazon pet
+amzn pet
+CATEGORIA: SUPERMERCATO_CON_PET_CORNER
+KEYWORDS:
+pet corner
+pet area
+pet shop interno
+
+BRAND_KEYWORDS:
+petstore conad
+amici di casa coop
+animali che passione
