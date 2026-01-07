@@ -1,0 +1,64 @@
+project_id = "basnobgikmqioeuxcfmq"
+
+[functions.ask-ai]
+verify_jwt = false
+
+[functions.ocr-receipt]
+verify_jwt = false
+
+[functions.ocr-invoice]
+verify_jwt = false
+
+[functions.ocr-payment]
+verify_jwt = false
+
+[functions.ocr-bill]
+verify_jwt = false
+
+[functions.parse-installment-plan]
+verify_jwt = false
+
+[functions.voice-to-text]
+verify_jwt = false
+
+[functions.ai-parse-expense]
+verify_jwt = false
+
+[functions.generate-report]
+verify_jwt = false
+
+[functions.ocr-bank-statement]
+verify_jwt = false
+
+[functions.analyze-finances]
+verify_jwt = false
+
+[functions.analyze-work-plan]
+verify_jwt = false
+
+[functions.generate-work-calendar]
+verify_jwt = false
+
+[functions.parse-bank-csv]
+verify_jwt = false
+
+[functions.parse-bank-excel]
+verify_jwt = false
+
+[functions.create-primary-expenses]
+verify_jwt = false
+
+[functions.sync-family-transfers]
+verify_jwt = false
+
+[functions.realtime-token]
+verify_jwt = false
+
+[functions.ai-batch-categorize]
+verify_jwt = false
+
+[functions.apply-category-to-similar]
+verify_jwt = false
+
+[functions.send-invoice-email]
+verify_jwt = false
